@@ -116,6 +116,15 @@
     />
   </a>
   
+  <a href="keras.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/valohai/ml-logos/blob/master/keras.svg"
+      alt="keras"
+      width="40"
+      height="40"
+    />
+  </a>
+  
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
