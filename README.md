@@ -135,6 +135,3 @@
   </a>
   
 </p>
-
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hidekinakata&show_icons=true&theme=github_dark_dimmed&locale=en" alt="hidekinakata" /></p>
