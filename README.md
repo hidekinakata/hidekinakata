@@ -1,137 +1,61 @@
-<h1 align="center">Hi 👋, I'm William Hideki</h1>
+<div align="center">
 
-<p align="left">
-</p>
+# Hideki Nakata
+**AI Engineer · Fullstack Dev · São Paulo, BR 🇧🇷**
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-    <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
-      width="40"
-      height="40"
-    />
-  </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-13.svg"
-      alt="nextjs"
-      width="40"
-      height="40"
-      style="filter:brightness(.6)"
-    />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-      alt="pandas"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
-      alt="scikit_learn"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
-      alt="seaborn"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a href="keras.io/" target="_blank" rel="noreferrer">
-    <img
-      src="https://github.com/valohai/ml-logos/blob/master/keras.svg"
-      alt="keras"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
-      alt="tensorflow"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-</p>
+*Building AI tools that solve real problems*
+
+</div>
+
+---
+
+### About
+
+Analista de Sistemas em transição para Engenharia de IA — construindo agentes, fluxos de automação e ferramentas que usam LLMs como núcleo funcional. Stack híbrido: Python no backend de IA, C# .NET em sistemas legados, React/Next.js no front.
+
+---
+
+### Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=hidekinakata&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hidekinakata&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=hidekinakata&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+### Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hidekinakata/hidekinakata/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hidekinakata/hidekinakata/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/hidekinakata/hidekinakata/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+---
+
+### Stack
+
+**AI / Automation**
+`Python` `OpenAI API` `Claude API` `LangChain` `n8n` `FastAPI`
+
+**Frontend**
+`React` `Next.js` `TypeScript` `Tailwind CSS`
+
+**Backend & Data**
+`C# .NET` `SQL Server` `pandas` `scikit-learn`
+
+---
+
+<div align="center">
+  <a href="https://linkedin.com/in/SEU_LINKEDIN">LinkedIn</a> ·
+  <a href="https://SEU_PORTFOLIO.com">Portfolio</a>
+</div>
