@@ -56,6 +56,6 @@ Analista de Sistemas em transição para Engenharia de IA — construindo agente
 ---
 
 <div align="center">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN">LinkedIn</a> ·
-  <a href="https://SEU_PORTFOLIO.com">Portfolio</a>
+  <a href="https://www.linkedin.com/in/whnakata">LinkedIn</a> ·
+  <a href="https://williamnakata.dev">Portfolio</a>
 </div>
