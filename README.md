@@ -1,61 +1,43 @@
-<div align="center">
+<h2>William Hideki Nakata</h2>
 
-# Hideki Nakata
-**AI Engineer · Fullstack Dev · São Paulo, BR 🇧🇷**
+AI Automation Engineer & Full Stack Developer · Brazil (GMT-3)
 
-*Building AI tools that solve real problems*
+<a href="https://www.linkedin.com/in/whnakata"><img src="https://img.shields.io/badge/LinkedIn-whnakata-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://williamnakata.dev"><img src="https://img.shields.io/badge/Portfolio-williamnakata.dev-111111?style=flat-square" alt="Portfolio" /></a>
+<a href="mailto:whnakata@gmail.com"><img src="https://img.shields.io/badge/Email-whnakata%40gmail.com-555555?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
-</div>
+I build AI agents and automation that run inside real business systems, backed by solid backend and data engineering. Currently at Toledo Piza, where I've shipped two production agents (LangChain, LangGraph, Azure AI Foundry) with tracing and guardrails, automated 6+ manual processes, and maintained ETL pipelines handling millions of rows per day.
 
----
-
-### About
-
-Analista de Sistemas em transição para Engenharia de IA — construindo agentes, fluxos de automação e ferramentas que usam LLMs como núcleo funcional. Stack híbrido: Python no backend de IA, C# .NET em sistemas legados, React/Next.js no front.
-
----
-
-### Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=hidekinakata&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hidekinakata&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=hidekinakata&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-### Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hidekinakata/hidekinakata/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hidekinakata/hidekinakata/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/hidekinakata/hidekinakata/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
----
+Before that I spent two years teaching Computational Numerical Methods at UNESP, where I earned my BSc in Computer Science. I still care about understanding things from first principles.
 
 ### Stack
 
-**AI / Automation**
-`Python` `OpenAI API` `Claude API` `LangChain` `n8n` `FastAPI`
+<img src="https://skillicons.dev/icons?i=py,cs,dotnet,ts,nodejs,angular,fastapi,docker,azure&perline=9" alt="Python, C#, .NET, TypeScript, Node.js, Angular, FastAPI, Docker, Azure" />
 
-**Frontend**
-`React` `Next.js` `TypeScript` `Tailwind CSS`
+**AI & Automation**: LangChain · LangGraph · RAG · Azure AI Foundry · OpenAI API · Vector DBs · LangSmith · n8n<br />
+**Backend**: C# (.NET, EF Core) · Python (FastAPI) · TypeScript · Node.js · REST APIs<br />
+**Data & Infra**: SQL Server (T-SQL) · ETL · Power BI · Docker · Azure · CI/CD
 
-**Backend & Data**
-`C# .NET` `SQL Server` `pandas` `scikit-learn`
+<details>
+<summary><b>How I usually structure an agent system</b></summary>
+<br />
 
----
+```mermaid
+flowchart LR
+    A[Business data<br/>SQL Server / APIs] --> B[ETL & processing<br/>Python]
+    B --> C[Embeddings<br/>Vector DB]
+    C --> D[Agent<br/>LangGraph]
+    D <--> E[Tools<br/>.NET / REST APIs]
+    D --> F[Tracing & guardrails<br/>LangSmith]
+```
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/whnakata">LinkedIn</a> ·
-  <a href="https://williamnakata.dev">Portfolio</a>
-</div>
+</details>
+
+### Selected work
+
+| Project | What it shows |
+|---|---|
+| [**starkbank-challenge**](https://github.com/hidekinakata/starkbank-challenge) | Python webhook service, hexagonal architecture, idempotent payments, signature verification, retries. `mypy --strict`, 78 tests. |
+| [**NeuralNet-from-scratch**](https://github.com/hidekinakata/NeuralNet-from-scratch) | A complete neural network using only NumPy. |
+
+<sub>Most of my professional work lives in private corporate repositories.</sub>
